@@ -1,1 +1,2 @@
-# latihanFor
+# latihanFor: karta
+Hasil latihan Fork
